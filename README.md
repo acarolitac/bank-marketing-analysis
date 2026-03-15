@@ -59,7 +59,7 @@ O dashboard apresenta:
 - Principais características dos clientes com maior probabilidade de conversão
 - Indicadores visuais para apoiar a tomada de decisão
 
-*(Inserir aqui a imagem do dashboard)*
+![Dashboard](dashboard.png)
 
 ---
 
