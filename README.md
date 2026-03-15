@@ -52,13 +52,6 @@ As análises incluíram:
 
 Além da análise exploratória, foi desenvolvido um **dashboard no Excel** para facilitar a visualização dos principais insights encontrados na análise.
 
-O dashboard apresenta:
-
-- Distribuição dos clientes por perfil
-- Comparação entre clientes que aderiram ou não ao produto
-- Principais características dos clientes com maior probabilidade de conversão
-- Indicadores visuais para apoiar a tomada de decisão
-
 ![Dashboard](dashboard.png)
 
 ---
