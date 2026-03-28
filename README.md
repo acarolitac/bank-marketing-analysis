@@ -1,7 +1,5 @@
 # 📊 Bank Marketing Analysis
 
-Projeto de **Análise de Dados**
-
 ## 📌 Contexto
 
 Com a finalidade de entender melhor o perfil dos clientes para potencializar a venda de um produto de investimento, a área de marketing realizou uma campanha direcionada para parte da base de clientes.
