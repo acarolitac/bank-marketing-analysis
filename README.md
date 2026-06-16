@@ -1,7 +1,5 @@
 # 📊 Bank Marketing Analysis
 
-## 📌 Contexto
-
 Com a finalidade de entender melhor o perfil dos clientes para potencializar a venda de um produto de investimento, a área de marketing realizou uma campanha direcionada para parte da base de clientes.
 
 A campanha teve duração de 3 meses e foi realizada em todo o Brasil. Após o seu encerramento, a equipe de marketing disponibilizou a base de dados `bank_marketing.xlsx` para que a área de Analytics realizasse uma análise sobre o perfil dos clientes e os resultados obtidos.
